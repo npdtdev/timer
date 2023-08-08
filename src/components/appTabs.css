@@ -1,0 +1,7 @@
+.bg-mesh {
+  background-color: transparent;
+  background-position: center;
+
+  background-image: radial-gradient(at 20% 20%, rgb(205, 255, 223) 0, transparent 20%),
+    radial-gradient(at 77% 71%, rgb(249, 211, 239) 0, transparent 18%);
+}
